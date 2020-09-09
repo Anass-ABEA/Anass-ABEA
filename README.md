@@ -45,7 +45,7 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 
 | [<img src="https://lh3.googleusercontent.com/ZpPWnsxBPOP83XX5jg0TxeNpUo83zP1ZPPK_-3plTlweu8NW799NybFLqpJp-aNtwQ=s180-rw">](https://play.google.com/store/apps/details?id=com.Johnabea.test_total&hl=en) | Dialy Diabs: an android phone app for diabetics to monitor their blood sugar|
 |--|--|
-| [<img src="https://lh3.googleusercontent.com/2jXjatV0hmNLSJxV09yZ4Efo6JGWQmnqPVPUYuhMUeVyDzIRS2YYfOUxOdLWML1b1bM=s180-rw">](https://play.google.com/store/apps/details?id=com.Johnabe.emicatronic&hl=en) | <strong>Arduino Bluetooth receiver: an android phone app for robots geeks. Used to connect to an Arduino board and send messages to the phone as values</strong>|
+| [<img src="https://lh3.googleusercontent.com/QhlSFPLlmgobiBViL-1Qo77ToGWt06j-B2blx9WYu_cCPrLgYR5SsR3o4ccl0XKcsDk=w720-h310-rw">](https://play.google.com/store/apps/details?id=com.Johnabe.emicatronic&hl=en) | <strong>Arduino Bluetooth receiver: an android phone app for robots geeks. Used to connect to an Arduino board and send messages to the phone as values</strong>|
 | [<img src="https://raw.githubusercontent.com/Anass-ABEA/Project-Java/master/img/logo.png">](https://www.youtube.com/watch?v=SdymGkNBtsw&ab_channel=AnassAITBENELARBI) | <strong>The Flight Host: a java based desktop application made to allow users to book, update and cancel flights. It also allows admins to add, update and remove the booked seats, flights, planes and admins as well. </strong>|
 | [<img src="https://github.com/Anass-ABEA/SnakePython/blob/master/screenshots/snake.png?raw=true">](https://github.com/Anass-ABEA/SnakePython) | <strong>The Snake: a simple python made desktop application using the "pygame" library. </strong>|
 
