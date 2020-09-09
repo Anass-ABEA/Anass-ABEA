@@ -13,7 +13,7 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 - Music
 - Gaming
 
-| Some of my favourite programming languages are listed below: |My most popular repository is: |
+| Some of my favourite programming languages |My most popular repository is |
 |--|--|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-ABEA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anass-ABEA&repo=Covid-19-Database-Updater)](https://github.com/Anass-ABEA/Covid-19-Database-Updater)|
 
