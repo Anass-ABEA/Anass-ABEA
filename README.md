@@ -13,13 +13,13 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 - Music
 - Gaming
 
-### Some of my favourite programming languages are listed below: 
+| Some of my favourite programming languages are listed below: |My most popular repository is: |
+|--|--|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-ABEA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anass-ABEA&repo=Covid-19-Database-Updater)](https://github.com/Anass-ABEA/Covid-19-Database-Updater)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-ABEA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My most popular repository is: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anass-ABEA&repo=Covid-19-Database-Updater)](https://github.com/Anass-ABEA/Covid-19-Database-Updater)
+
 
 ### Technical Skills:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
