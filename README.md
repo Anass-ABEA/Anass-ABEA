@@ -40,7 +40,7 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 
 [<img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](shorturl.at/uHJK8) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" target="_bank"/>](https://www.youtube.com/channel/UCTK0fGhApaJlERojmqmn_YQ) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_bank" />](https://www.linkedin.com/in/anass-abea/) [<img src = "https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_bank">](https://steamcommunity.com/profiles/76561198215851327/) [<img src = "https://img.shields.io/badge/Stackoverflow-lightgrey.svg?logo=stackoverflow&style=for-the-badge&logoColor=orange" target="_bank">](https://stackoverflow.com/users/11003330/anass-abea) [<img src = "https://img.shields.io/badge/github-black.svg?logo=github&style=for-the-badge&logoColor=white" target="_bank">](https://stackoverflow.com/users/11003330/anass-abea)
 
-### Passed projects: 
+### Past projects: 
 
 
 | [<img src="https://lh3.googleusercontent.com/ZpPWnsxBPOP83XX5jg0TxeNpUo83zP1ZPPK_-3plTlweu8NW799NybFLqpJp-aNtwQ=s180-rw">](https://play.google.com/store/apps/details?id=com.Johnabea.test_total&hl=en) | Dialy Diabs: an android phone app for diabetics to monitor their blood sugar|
