@@ -30,10 +30,11 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> 
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> 
-<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
-<img src="https://img.shields.io/badge/-_Robot%20Operating%20System%20(ROS)_-b9361a?style=flat&color=blue">
-<img src="https://img.shields.io/badge/-Visual%20Basic-lightgray?style=flat&logo=visual-studio-code">
-<img src="https://img.shields.io/badge/-Visual%20Basic-gray?style=flat&logo=visual-basic-for-application">
+<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"> 
+<img src="https://img.shields.io/badge/-_Robot%20Operating%20System%20(ROS)_-b9361a?style=flat&color=blue"> 
+<img src="https://img.shields.io/badge/-Visual%20Basic-lightgray?style=flat&logo=visual-studio-code"> 
+<img src="https://img.shields.io/badge/-Visual%20Basic-red?style=flat&logo=visual-basic-for-application"> 
+<img src="https://img.shields.io/badge/-Arduino-gray?style=flat&logo=arduino&color=gray">
 
 ### My socials:
 
