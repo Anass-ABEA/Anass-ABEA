@@ -34,18 +34,7 @@ My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be compu
 ### Contact & socials:
  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" target="_bank"/>](https://www.youtube.com/channel/UCTK0fGhApaJlERojmqmn_YQ)  [<img src = "https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" target="_bank">](https://steamcommunity.com/profiles/76561198215851327/) [<img src = "https://img.shields.io/badge/Stackoverflow-lightgrey.svg?logo=stackoverflow&style=for-the-badge&logoColor=orange" target="_bank">](https://stackoverflow.com/users/11003330/anass-abea) [<img src = "https://img.shields.io/badge/github-black.svg?logo=github&style=for-the-badge&logoColor=white" target="_bank">](https://github.com/Anass-ABEA) 
  
-Need help to get a job done ? feel free to contact me 
+
 [<img src = "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://www.wa.me/+212637958106) <a href="mailto:annassabe@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_bank" ></a> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_bank" />](https://www.linkedin.com/in/anass-abea/)
-
-
-### Past projects: 
-
-
-| [<img src="https://lh3.googleusercontent.com/ZpPWnsxBPOP83XX5jg0TxeNpUo83zP1ZPPK_-3plTlweu8NW799NybFLqpJp-aNtwQ=s180-rw">](https://play.google.com/store/apps/details?id=com.Johnabea.test_total&hl=en) | Dialy Diabs: an android phone app for diabetics to monitor their blood sugar|
-|--|--|
-| [<img src="https://lh3.googleusercontent.com/QhlSFPLlmgobiBViL-1Qo77ToGWt06j-B2blx9WYu_cCPrLgYR5SsR3o4ccl0XKcsDk=w720-h310-rw">](https://play.google.com/store/apps/details?id=com.Johnabe.emicatronic&hl=en) | <strong>Arduino Bluetooth receiver: an android phone app for robots geeks. Used to connect to an Arduino board and send messages to the phone as values</strong>|
-| [<img src="https://raw.githubusercontent.com/Anass-ABEA/Project-Java/master/img/logo.png">](https://www.youtube.com/watch?v=SdymGkNBtsw&ab_channel=AnassAITBENELARBI) | <strong>The Flight Host: a java based desktop application made to allow users to book, update and cancel flights. It also allows admins to add, update and remove the booked seats, flights, planes and admins as well. </strong>|
-| [<img src="https://github.com/Anass-ABEA/SnakePython/blob/master/screenshots/snake.png?raw=true">](https://github.com/Anass-ABEA/SnakePython) | <strong>The Snake: a simple python made desktop application using the "pygame" library. </strong>|
-| [<img src="https://github.com/Anass-ABEA/Python-Chess-Game/blob/master/ScreenShots/image1.PNG?raw=true">](https://github.com/Anass-ABEA/Python-Chess-Game) | <strong>Chess: a simple python made desktop application using the "pygame" library to play chess player vs player (PVP). </strong>|
 
 
