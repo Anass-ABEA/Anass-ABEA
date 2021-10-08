@@ -5,6 +5,11 @@
 ### About me:
 My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be computer science engineer. I live in Meknes, Morocco and I am 22 years old.
 
+### Contact Info & Links
+[Linkedin](https://www.linkedin.com/in/anass-abea/)
+[Portfolio](https://portfolio.thexcoders.net/)
+[Youtube](https://www.youtube.com/c/AnassAITBENELARBI)
+
 ### I am very passionate about: 
 - Coding
 - Robotics
