@@ -3,7 +3,8 @@
 
 ## Hi there 👋 welcome to my github 
 ### About me:
-My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be computer science engineer. I live in Meknes, Morocco and I am 22 years old.
+My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be Software Engineer. 
+I live in Meknes, Morocco and I am 23 years old.
 
 ### Contact Info & Links
 [Linkedin](https://www.linkedin.com/in/anass-abea/)
