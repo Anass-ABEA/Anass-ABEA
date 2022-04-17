@@ -3,8 +3,8 @@
 
 ## Hi there 👋 welcome to my github 
 ### About me:
-My name is *Anass* **AIT BEN EL ARBI** a self-taught developer, soon to be Software Engineer. 
-I live in Meknes, Morocco and I am 23 years old.
+My name is *Anass* **AIT BEN EL ARBI** a Cybersecurity consultant and a Software Engineer. 
+I live in Morocco and I am 23 years old.
 
 ### Contact Info & Links
 [Linkedin](https://www.linkedin.com/in/anass-abea/)
@@ -12,6 +12,9 @@ I live in Meknes, Morocco and I am 23 years old.
 [Youtube](https://www.youtube.com/c/AnassAITBENELARBI)
 
 ### I am very passionate about: 
+- Cybersecurity
+- Identity and Access Management
+- Identity Governance and Administration
 - Coding
 - Robotics
 - Computers
